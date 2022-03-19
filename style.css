@@ -1,0 +1,19 @@
+#page {
+    background-color: rgba(255, 174, 0, 0.938);
+    text-align: center;
+}
+
+.homepage-title {
+    font-family: cursive, sans-serif;
+    font-size: 70px;
+}
+
+.recipe-list {
+    font-size: 30px;
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}

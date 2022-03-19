@@ -1,0 +1,17 @@
+#page {
+    background-color: rgba(226, 198, 158, 0.856);
+    text-align: center;
+}
+
+.homepage-title { 
+    font-family: cursive, sans-serif;
+    font-size: 60px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
